@@ -12,6 +12,7 @@ automation-friendly way to identify and retrieve content.
 Current Members include:
 
 - Stephen Banghart
+- Daniel Harris
 - Jack Vander Pol
 - David Ries
 - David Waltermire
