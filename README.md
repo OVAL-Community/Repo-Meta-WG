@@ -16,7 +16,12 @@ Current Members include:
 - David Ries
 - David Waltermire
 
-If you'd like to join us or provide feedback of any kind, please contact us via the mailing list (list details TBD).
+If you'd like to join us or provide feedback of any kind, please contact us via the [mailing list](https://list.nist.gov/scap-dev-content).
+
+## Join Us!
+
+If you are interested in following along, joining the working group, asking us questions or providing feedback,
+please join the [mailing list](https://list.nist.gov/scap-dev-content) and let us know!
 
 ## Status
 
