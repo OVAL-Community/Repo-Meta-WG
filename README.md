@@ -17,12 +17,12 @@ In Phase I, we will limit our scope to the automated consumption of OVAL, XCCDF,
 as currently published by repositories (see [examples](https://github.com/OVAL-Community/Repo-Meta-WG/blob/master/1.examples.md)).
 We intend the results of this phase to be immediately useful for existing SCAPv1 repositories and use cases. 
 
-Although, strictly speaking, this phase will address SCAPv1 formats, we expect the formats and use cases addressed--or analogues--to 
+Although--strictly speaking--this phase will address SCAPv1 formats, we expect the formats and use cases addressed--or analogues--to 
 be present in SCAPv2 and for this work to lead naturally into Phase II.
 
 ### Phase II: Additional SCAPv2 Use Cases
 
-In Phase II, we will revise and expand the work in Phase I to more fully address SCAPv2 formats and use cases that emerge as
+In Phase II, we will revise and expand on the work in Phase I to more fully address formats and use cases that emerge as
 SCAPv2 is defined.
 
 ## Members
