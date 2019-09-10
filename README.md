@@ -58,7 +58,7 @@ We are considering the following initial milestones/process:
    1. Content Types: identify unique content types that our proposal must support (e.g. content packages, document formats, etc.)
    2. Metadata by Content Type: for each content type, list and describe useful metadata fields
    3. Repository/Grouping Metadata: list and describe any useful repository-global or other non-content-type metadata fields
-3. Create Sample Manifests for Phase I
+3. [Create Sample Manifests for Phase I](https://github.com/OVAL-Community/Repo-Meta-WG/blob/master/3.sample.manifests.md) (in process)
    1. Create abbreviated, sample manifests in a variety of formats subject to interest (e.g. XML, ROLIE, JSON)
    2. Discuss and select a format (or formats)
 4. Assessment, Feedback, Next Steps
