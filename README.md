@@ -66,5 +66,10 @@ We are considering the following initial milestones/process:
    2. Solicit feedback from community, repository owners, etc. (tbd)
    3. Plan next steps
 
+## Example of an XML-based Implementation
+
+The open source development of this specification did not advanced as expected, as there was not enough consensus.  The SCAP Compliance Checker (SCC) team from NIWC proceeded with their own XML based specification, and a real world (functioning/live) example can be found at:
+
+https://raw.githubusercontent.com/DISA-STIGS/DISA-STIGS.github.io/master/niwc-content-repository.xml
 
 
